@@ -1,4 +1,4 @@
-Authorization
+Авторизация
 =============
 
 > Note: This section is under development.
